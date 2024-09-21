@@ -10,6 +10,11 @@ path = 'contracts/firstcontract.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.interesprestamo]
+path = 'contracts/interesprestamo.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.nft]
 path = 'contracts/nft.clar'
 clarity_version = 2

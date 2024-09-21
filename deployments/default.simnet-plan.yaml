@@ -55,6 +55,11 @@ plan:
             path: contracts/firstcontract.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: interesprestamo
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/interesprestamo.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: nft
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/nft.clar
